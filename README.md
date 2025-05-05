@@ -1,8 +1,5 @@
 # Goose Game - Catch the Gifts!
 
-
-## Overview
-
 Welcome to Goose Game: Catch the Gifts! This is a fun and interactive Python game where you control a goose to collect falling gifts while avoiding obstacles. The game gets progressively challenging as you play!
 
 
